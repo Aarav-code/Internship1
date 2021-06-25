@@ -1,0 +1,17 @@
+{ 
+    "store_manager": { 
+    "doj_after": "2007-03-12",
+    "meta_grade": ["^M1$", "^M2$"],
+    "meta_department" : "a"
+    }, 
+    "store_associate": {
+        "meta_grade": ["^A1$"]
+    } ,
+    "test1": { 
+        "doj_after": "2007-03-12",
+        "meta_grade": ["^M1$", "^M2$"],
+        "meta_department" : "a"
+    } 
+}
+
+   
